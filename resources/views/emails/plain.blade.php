@@ -1,0 +1,1 @@
+Laravel sending email made simple
